@@ -1,0 +1,6 @@
+Motif Pattern : 01,02,02
+Motif Count : 276986
+Max time : 20
+Max Length 1 : 198
+Max Length 2 : 4704
+Max Length 3 : 12387

@@ -1,0 +1,6 @@
+Motif Template: 01,02,01
+Motif Count : 18664413
+Max time : 12320
+Max Length 1 : 1123
+Max Length 2 : 19223
+Max Length 3 : 10672
